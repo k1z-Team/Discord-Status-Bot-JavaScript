@@ -1,5 +1,3 @@
-Got it! Here's the updated description with the instruction to replace the bot token in the `.env.example` file:
-
 ---
 
 ## **🎮 Discord Status Bot** 🚀
@@ -30,5 +28,3 @@ This project is **open-source** under the **MIT License**. You can **use**, **mo
 🔗 **[View the Code](https://github.com/K1z-Team/Discord-Status-Bot)**
 
 ---
-
-This should make it clear that users need to replace the bot token in the **`.env.example`** file. Let me know if you need any further adjustments! 😊
