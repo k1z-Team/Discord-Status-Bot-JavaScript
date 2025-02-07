@@ -16,7 +16,7 @@ A simple **Discord bot** that lets you set a custom **Playing**, **Watching**, *
    npm install discord.js
    ```
 2. **Rename** `.env.example` to `.env` and **replace** `"YOUR_BOT_TOKEN_HERE"` with your **Discord bot token** 🔑  
-3. **Edit** `ACTIVITY_TYPE` and `ACTIVITY_TEXT` in `Main.js` 💬  
+3. **Edit** `ACTIVITY_TYPE` and `ACTIVITY_TEXT` in `main.js` 💬  
 4. **Run** the bot:  
    ```sh
    node Main.js
